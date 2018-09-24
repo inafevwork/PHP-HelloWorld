@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: BuildConfig
 metadata:
-  name: php55
+  name: confluence
   labels:
     app: php56
   annotations:
