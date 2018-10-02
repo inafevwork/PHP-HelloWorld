@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: BuildConfig
 metadata:
-  name: paneldemo
+  name: default
   labels:
     app: php56
   annotations:
